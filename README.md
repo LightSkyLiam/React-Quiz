@@ -1,12 +1,13 @@
-# The Wild Oasis
+# React Job Interview
 
-easy-to-use, visually appealing React quiz for beginners to test their React knowledge
+easy-to-use, visually appealing React job interview prep for beginners to test their React knowledge
 
 ## Technologies Used
 
 - React
 - React-Query
 - CSS-Modules
+- Material UI
 - React-Router
 
 ## People
